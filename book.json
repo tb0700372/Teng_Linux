@@ -10,7 +10,8 @@
                 },
                 {
                     "lang": "go",
-                    "name": "Go"
+                    "name": "Go",
+                    "language" : "zh-hans",
                 }
             ]
         }
